@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConceptsPOO
 {
-    internal interface IPay
+    public interface IPay
     {
+        public decimal GetValueToPay();
     }
 }
