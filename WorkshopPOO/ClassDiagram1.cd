@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WorkshopPOO.Product">
+    <Position X="3" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WorkshopPOO.FixedPriceProduct">
+    <Position X="5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>FixedPriceProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkshopPOO.VariablePriceProduct">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAAAQgAAAAAA=</HashCode>
+      <FileName>VariablePriceProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkshopPOO.ComposedProduct">
+    <Position X="3" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAIAgAAAAAAAAQ=</HashCode>
+      <FileName>ComposedProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorkshopPOO.Invoice">
+    <Position X="7" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAIAIAAAAAAAAA=</HashCode>
+      <FileName>Invoice.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="WorkshopPOO.IPay">
+    <Position X="1.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>IPay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
